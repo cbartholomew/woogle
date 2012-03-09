@@ -1,0 +1,7 @@
+## Interface: 40300
+## Title: Woogle
+## Notes: Woogle it! Easy bag searcher for those who are unorganized and enjoy command line tools
+## Author: ódysseus - Blackrock
+
+woogle.lua
+woogle.xml
