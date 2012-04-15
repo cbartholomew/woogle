@@ -54,7 +54,7 @@ function handler(item, editBox)
 		
 				local itemCapital = item:gsub("^%l", string.upper);
 				FindContainerItemByName(itemCapital); 
-			end    
+			end      
 		end
 	else
 		UpdateChatFrames(SYSTEM_MESSAGES["SYNTAX"]);
